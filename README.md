@@ -56,3 +56,21 @@ Edit `~/Library/Application Support/Code/User/keybindings.json`:
   }
 ]
 ```
+
+## Usage
+### Download contest files
+```
+cd contests
+acc new abc123
+```
+
+### Open the folder using VSCode
+```
+code .
+```
+And edit the `main.cpp` files in each problem directory.
+### Test the code
+`Ctrl + T`
+
+### Submit the code
+`Ctrl + S`
