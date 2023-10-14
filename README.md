@@ -1,4 +1,4 @@
-# AtCoder Environment on VSCode for macOS
+# AtCoder Environment for macOS
 
 ## Tested Environment
 
