@@ -15,7 +15,6 @@
 ```
 brew install gcc
 ```
-
 ### Setup a symbolic link
 
 ```
@@ -40,8 +39,8 @@ ln -s /opt/homebrew/Cellar/gcc/13.2.0/bin/g++-13 /opt/homebrew/bin/gcc
 ```
 
 ### Setup keybindings.json in VSCode
-
-```json:~/Library/Application Support/Code/User/keybindings.json
+Edit `~/Library/Application Support/Code/User/keybindings.json`:
+```json:keybindings.json
 [
   {
     "key": "ctrl+t",
